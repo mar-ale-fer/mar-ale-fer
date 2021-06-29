@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mar-ale-fer
+- 👀 I’m interested in Django and Full Stack Javascript tecnology
+- 🌱 I’m currently learning node.js
+- 💞️ I’m looking to collaborate as volunteer in Django beginner courses as teacher or couch in English (I am studing for IELTS B2 certificate)
+- 📫 How to reach me: mar.ale.fer@gmail.com
